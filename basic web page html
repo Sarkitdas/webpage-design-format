@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    <title>First.com</title>
+</head>
+<body>
+    <div>
+        <header>
+            This is Header
+        </header>
+    </div>
+    <h1>Piu Das Sarkit saikat</h1>
+    <p>my name is <b>saikat das</b> <strong>Sarkit Das</strong>.<br>I am studying Computer Science and Engineering.</p>
+    <big>Saikat</big>
+    <small>Sarkit</small><br>
+    <hr width="70%">
+    <img src="F:/xamp/htdocs/login/cool.png" height="50%" width="50%" alt="Saikat das"><br>
+    <a href="First.com">First</a><br>
+
+    <ul>
+        <li>This is new for saikat</li>
+        <li>This is new for saikat</li>
+        <ol>
+        <li>This is new for saikat</li>
+        <li>This is new for saikat</li>
+        </ol>
+    </ul>
+    <div>
+        <footer>
+            This is footer
+        </footer>
+    </div>
+
+</body>
+</html>
