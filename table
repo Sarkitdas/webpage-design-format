@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <title>First.com</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <th>dog</th>
+            <th>cat</th>
+            <th>man</th>
+        </thead>
+        <tr>
+            <td>10</td>
+            <td>20</td>
+            <td>40</td>
+        </tr>
+
+        <tr>
+            <td>10</td>
+            <td>20</td>
+            <td>40</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
