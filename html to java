@@ -7,3 +7,19 @@
 
     </body>
 </html>
+
+//Number Method
+
+var n=3;
+n=toString(n);
+console.log(typeof(n));
+
+n=3.75;
+n=parseFloat(n);  //parseInt
+console.log(n);
+
+n=3.45;
+console.log(n.toFixed(1));
+
+n=3.256;
+console.log(n.toPrecision(2));
