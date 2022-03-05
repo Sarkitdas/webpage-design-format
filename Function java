@@ -12,6 +12,15 @@
             }
             java();
             java();
+
+            //For different value passing into the perimeter
+        
+            function java2(n,m)
+            {
+            var m=n*m;
+            document.write("Result is: "+m);
+            }
+            java2(5,2);
         </script>
     </body>
 </html>
