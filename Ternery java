@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Sarkit</title>
+    </head>
+    <body>
+        <script>
+            var n=prompt("Enter the number: ");
+            if(n>0)
+            {
+                document.write(n+" is positive number");
+            }
+            else
+            {
+                document.write(n+" is negetive number");
+            }
+
+            //ternary operator
+            var ter=n>0?" Positive":" Negetive";
+            document.write(ter);
+
+        </script>
+    </body>
+</html>
