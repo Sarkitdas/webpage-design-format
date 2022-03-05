@@ -8,7 +8,7 @@
             {
             var n=prompt("Enter the number: ");
             var m=n*n;
-            document.write("Result is: "+m);
+            document.write("Result is: "+m+ "<br>");
             }
             java();
             java();
@@ -18,9 +18,19 @@
             function java2(n,m)
             {
             var m=n*m;
-            document.write("Result is: "+m);
+            document.write("Result is: " +m+ "<br>");
             }
             java2(5,2);
+
+            //returning in a function
+
+            function java3(n,m)
+            {
+            var m=n/m;
+            return m;
+            }
+            document.write("Result is: "+(java3(6,2)));
+
         </script>
     </body>
 </html>
