@@ -18,6 +18,9 @@
             var ter=n>0?" Positive":" Negetive";
             document.write(ter);
 
+            var ter=n>0?" Positive": n<0?" Negetive":" Zero";
+            document.write(ter);
+
         </script>
     </body>
 </html>
