@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Sarkit</title>
+    </head>
+    <body>
+        <script>
+            function java()
+            {
+            var n=prompt("Enter the number: ");
+            var m=n*n;
+            document.write("Result is: "+m);
+            }
+            java();
+            java();
+        </script>
+    </body>
+</html>
